@@ -1,0 +1,27 @@
+h1{
+   
+    color: black;
+    background-color: darkgreen;
+
+    
+  }
+  
+  #s{
+     color: darkred;
+  }
+  .jmc{
+        border : 5px solid rgb(11, 119, 161);
+        border-radius: 10px;
+        margin : 1%;
+        width : 25%;
+
+        padding:10px 10px 10px 10px;
+
+        display: inline-block;
+        background-color: darkgray;
+       
+
+      }
+      h2{
+          text-align: center;
+      }
